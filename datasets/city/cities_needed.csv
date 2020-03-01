@@ -1,0 +1,297 @@
+,ABBR,municipality
+0,ABE,allentown
+1,ABI,abilene
+2,ABQ,albuquerque
+3,ABY,albany
+4,ACK,nantucket
+5,ACT,waco
+6,ACV,arcata ca
+7,ACY,atlantic city
+8,ADK,adak island
+9,ADQ,kodiak
+10,AEX,alexandria
+11,AGS,bush field
+12,AKN,king salmon
+13,ALB,albany
+14,ALO,waterloo
+15,AMA,amarillo
+16,ANC,anchorage
+17,ASE,aspen
+18,ATL,atlanta
+19,ATW,appleton
+20,AUS,austin
+21,AVL,asheville
+22,AVP,scranton
+23,AZO,kalamazoo
+24,BDL,windsor locks
+25,BET,bethel
+26,BFL,bakersfield
+27,BGM,binghamton
+28,BGR,bangor
+29,BHM,birmingham
+30,BIL,billings
+31,BIS,bismarck
+32,BJI,bemidji
+33,BKG,branson
+34,BLI,bellingham
+35,BMI,bloomington
+36,BNA,nashville
+37,BOI,boise
+38,BOS,boston
+39,BQK,brunswick
+40,BQN,
+41,BRO,brownsville
+42,BRW,barrow
+43,BTM,butte
+44,BTR,baton rouge
+45,BTV,burlington
+46,BUF,buffalo
+47,BUR,burbank
+48,BWI,baltimore
+49,BZN,bozeman
+50,CAE,columbia
+51,CAK,akron
+52,CDC,cedar city
+53,CDV,cordova
+54,CEC,crescent city
+55,CHA,chattanooga
+56,CHO,charlottesville va
+57,CHS,charleston
+58,CIC,chico
+59,CID,cedar rapids
+60,CLD,carlsbad
+61,CLE,cleveland
+62,CLL,college station
+63,CLT,charlotte
+64,CMH,columbus
+65,CMI,champaign
+66,CMX,hancock
+67,COD,cody
+68,COS,colorado springs
+69,CPR,casper
+70,CRP,corpus christi
+71,CRW,charleston
+72,CSG,columbus
+73,CVG,cincinnati
+74,CWA,wassau
+75,DAB,daytona beach
+76,DAL,dallas
+77,DAY,dayton
+78,DBQ,dubuque ia
+79,DCA,washington
+80,DEN,denver
+81,DFW,dallas fort worth
+82,DHN,dothan
+83,DLG,dillingham
+84,DLH,duluth
+85,DRO,durango
+86,DSM,des moines
+87,DTW,detroit
+88,EGE,vail
+89,EKO,elko
+90,ELM,elmira
+91,ELP,el paso
+92,ERI,erie
+93,EUG,eugene
+94,EVV,evansville
+95,EWN,new bern
+96,EWR,newark
+97,EYW,key west
+98,FAI,fairbanks
+99,FAR,fargo
+100,FAT,fresno
+101,FAY,fayetteville
+102,FCA,kalispell
+103,FLG,flagstaff
+104,FLL,fort lauderdale
+105,FLO,florence
+106,FNT,flint
+107,FSD,sioux falls
+108,FSM,fort smith
+109,FWA,fort wayne
+110,GCC,gillette
+111,GEG,spokane
+112,GFK,grand forks
+113,GGG,longview
+114,GJT,grand junction
+115,GNV,gainesville
+116,GPT,gulfport
+117,GRB,green bay
+118,GRK,killeen
+119,GRR,grand rapids
+120,GSO,greensboro
+121,GSP,greenville
+122,GST,gustavus
+123,GTF,great falls
+124,GTR,columbus mississippi
+125,GUC,gunnison
+126,HDN,hayden
+127,HLN,helena
+128,HNL,honolulu
+129,HOU,houston
+130,HPN,white plains
+131,HRL,harlingen
+132,HSV,huntsville
+133,HTS,huntington
+134,IAD,washington
+135,IAH,houston
+136,ICT,wichita
+137,IDA,idaho falls
+138,ILM,wilmington
+139,IND,indianapolis
+140,IPL,imperial
+141,ISP,islip
+142,ITH,ithaca
+143,ITO,hilo
+144,IYK,inyokern
+145,JAC,jacksn hole
+146,JAN,jackson
+147,JAX,jacksonville
+148,JFK,new york
+149,JNU,juneau
+150,KOA,kona
+151,KTN,ketchikan
+152,LAN,lansing
+153,LAS,las vegas
+154,LAW,lawton
+155,LAX,los angeles
+156,LBB,lubbock
+157,LCH,lake charles
+158,LEX,lexington ky
+159,LFT,lafayette
+160,LGA,new york
+161,LGB,long beach
+162,LIH,lihue
+163,LIT,little rock
+164,LMT,klamath falls
+165,LNK,lincoln
+166,LRD,laredo
+167,LSE,la crosse
+168,LWB,lewisburg
+169,LWS,lewiston
+170,LYH,lynchburg
+171,MAF,midland
+172,MBS,saginaw
+173,MCI,kansas city
+174,MCO,orlando
+175,MDT,harrisburg
+176,MDW,chicago
+177,MEI,meridian
+178,MEM,memphis
+179,MFE,mcallen
+180,MFR,medford
+181,MGM,montgomery
+182,MHK,manhattan
+183,MHT,manchester nh
+184,MIA,miami
+185,MKE,milwaukee
+186,MLB,melbourne
+187,MLI,moline
+188,MLU,monroe
+189,MOB,mobile
+190,MOD,modesto
+191,MOT,minot
+192,MQT,gwinn
+193,MRY,monterey
+194,MSN,madison
+195,MSO,missoula
+196,MSP,minneapolis
+197,MSY,new orleans
+198,MTJ,montrose co
+199,MWH,grant county airport
+200,MYR,myrtle beach
+201,OAJ,jacksonville nc
+202,OAK,oakland
+203,OGG,kahului
+204,OKC,oklahoma city
+205,OMA,omaha
+206,OME,nome
+207,ONT,ontario
+208,ORD,chicago
+209,ORF,norfolk
+210,OTH,north bend
+211,OTZ,kotzebue
+212,OXR,oxnard
+213,PBI,west palm beach
+214,PDX,portland
+215,PFN,panama city
+216,PHF,newport news
+217,PHL,philadelphia
+218,PHX,phoenix
+219,PIA,peoria
+220,PIH,pocatello
+221,PIR,pierre
+222,PIT,pittsburgh
+223,PLN,pellston
+224,PNS,pensacola
+225,PSC,pasco
+226,PSE,
+227,PSG,petersburg
+228,PSP,palm springs
+229,PVD,providence
+230,PWM,portland
+231,RAP,rapid city
+232,RDD,redding
+233,RDM,redmond bend
+234,RDU,raleigh durham
+235,RHI,rhinelander
+236,RIC,richmond
+237,RKS,rock springs
+238,RNO,reno
+239,ROA,roanoke va
+240,ROC,rochester
+241,ROW,roswell
+242,RST,rochester
+243,RSW,fort myers
+244,SAF,santa fe
+245,SAN,san diego
+246,SAT,san antonio
+247,SAV,savannah
+248,SBA,santa barbara
+249,SBN,south bend
+250,SBP,san luis obispo
+251,SCC,deadhorse
+252,SCE,state college pennsylvania
+253,SDF,louisville
+254,SEA,seattle
+255,SFO,san francisco
+256,SGF,springfield
+257,SGU,saint george
+258,SHV,shreveport
+259,SIT,sitka
+260,SJC,san jose
+261,SJT,san angelo
+262,SJU,
+263,SLC,salt lake city
+264,SMF,sacramento
+265,SMX,santa maria
+266,SNA,santa ana
+267,SPI,springfield
+268,SPS,wichita falls
+269,SRQ,sarasota
+270,STL,st louis
+271,STT,
+272,STX,
+273,SUN,hailey
+274,SUX,sioux city
+275,SWF,newburgh
+276,SYR,syracuse
+277,TEX,telluride
+278,TLH,tallahassee
+279,TOL,toledo
+280,TPA,tampa
+281,TRI,bristol
+282,TUL,tulsa
+283,TUS,tucson
+284,TVC,traverse city
+285,TWF,twin falls
+286,TXK,texarkana
+287,TYR,tyler
+288,TYS,knoxville
+289,VLD,valdosta
+290,VPS,valparaiso
+291,WRG,wrangell
+292,WYS,west yellowstone
+293,XNA,bentonville
+294,YAK,yakutat
+295,YUM,yuma
